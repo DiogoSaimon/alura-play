@@ -23,4 +23,4 @@
 `npm install -g json-server@0.17.0` => (havia um problema na busca de vídeo por parâmentros usando o "?q=", no link "http://localhost:3000/videos?q=${termoDaBusca}"). Depois de muita pesquisa o problema é que as novas versões do json-server retirou esse metôdo de pesquisa, foi necessário força a versão que a instrutora usava na aula.
 
 `npm init`;
-`json-server --watch db.json`# alura-play
+`json-server --watch db.json`.
